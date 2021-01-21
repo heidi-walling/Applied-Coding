@@ -10,5 +10,8 @@
 
 [Python](https://github.com/heidi-walling/Applied-Coding/tree/main/Python_Projects)
 
+[JavaVariable](https://github.com/heidi-walling/Applied-Coding/blob/main/javatask.html)
+
+
 
 
